@@ -1,5 +1,5 @@
 # TomeRater
-Final project for class.
+# Final project for class.
 
 
 class User(object):
